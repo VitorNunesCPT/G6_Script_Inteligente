@@ -1,12 +1,11 @@
----
 
-**ScriptSavvy: Sistema de Correção Automática de Scripts**
+**Script Inteligente: Sistema de Correção Automática de Scripts**
 
 ---
 
 ### Visão Geral
 
-O **ScriptSavvy** é uma ferramenta projetada para facilitar a vida dos desenvolvedores de software, especialmente aqueles que lidam frequentemente com a criação de scripts para automatizar tarefas. Desenvolvido com o objetivo de eliminar erros comuns em scripts e aumentar a eficiência no desenvolvimento, o ScriptSavvy oferece uma solução abrangente para identificar, corrigir e otimizar scripts de forma automática e intuitiva.
+O **Script Inteligente** é uma ferramenta projetada para facilitar a vida dos desenvolvedores de software, especialmente aqueles que lidam frequentemente com a criação de scripts para automatizar tarefas. Desenvolvido com o objetivo de eliminar erros comuns em scripts e aumentar a eficiência no desenvolvimento, o Script Inteligente oferece uma solução abrangente para identificar, corrigir e otimizar scripts de forma automática e intuitiva.
 
 ### Problema
 
@@ -14,7 +13,7 @@ Muitos desenvolvedores enfrentam o desafio de cometer erros em seus scripts, que
 
 ### Solução
 
-O ScriptSavvy foi criado para resolver esse problema comum, oferecendo as seguintes funcionalidades:
+O Script Inteligente foi criado para resolver esse problema comum, oferecendo as seguintes funcionalidades:
 
 - **Identificação de Erros**: Analisa o código do script em busca de possíveis erros de semântica ou lógica.
 - **Feedback Imediato**: Fornece feedback imediato sobre a entrada e saída esperada do script, facilitando a detecção de discrepâncias.
@@ -25,7 +24,7 @@ O ScriptSavvy foi criado para resolver esse problema comum, oferecendo as seguin
 
 ### Como Usar
 
-1. Faça o login na plataforma ScriptSavvy.
+1. Faça o login na plataforma Script Inteligente.
 2. Insira o código do script que deseja corrigir.
 3. Aguarde a análise e correção automáticas.
 4. Revise o feedback e as correções propostas.
@@ -37,10 +36,10 @@ Este projeto está em constante desenvolvimento e sua contribuição é bem-vind
 
 ### Licença
 
-O ScriptSavvy é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
+O Script Inteligente é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
 
 ---
 
-Com o ScriptSavvy, a correção automática de scripts nunca foi tão fácil e eficiente. Experimente hoje mesmo e simplifique seu fluxo de trabalho de desenvolvimento de software!
+Com o Script Inteligente, a correção automática de scripts nunca foi tão fácil e eficiente. Experimente hoje mesmo e simplifique seu fluxo de trabalho de desenvolvimento de software!
 
 ---
