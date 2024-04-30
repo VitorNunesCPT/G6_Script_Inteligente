@@ -1,3 +1,5 @@
+---
+
 **ScriptSavvy: Sistema de Correção Automática de Scripts**
 
 ---
@@ -14,9 +16,9 @@ Muitos desenvolvedores enfrentam o desafio de cometer erros em seus scripts, que
 
 O ScriptSavvy foi criado para resolver esse problema comum, oferecendo as seguintes funcionalidades:
 
-- **Identificação de Erros**: Analisa o código do script em busca de possíveis erros de sintaxe ou lógica.
+- **Identificação de Erros**: Analisa o código do script em busca de possíveis erros de semântica ou lógica.
 - **Feedback Imediato**: Fornece feedback imediato sobre a entrada e saída esperada do script, facilitando a detecção de discrepâncias.
-- **Integração com API**: Conecta-se a uma API para realizar correções automáticas sempre que possível, aumentando a eficiência no processo de desenvolvimento.
+- **Integração com API ou Inteligência Artificial**: Conecta-se a uma API ou utiliza inteligência artificial para realizar correções automáticas sempre que possível, aumentando a eficiência no processo de desenvolvimento.
 - **Interface Intuitiva**: Apresenta uma interface de usuário intuitiva e fácil de usar, garantindo uma experiência fluida para o usuário.
 - **Rapidez e Eficiência**: Garante rapidez e eficiência na correção dos scripts, reduzindo o tempo de espera por resultados.
 - **Segurança e Privacidade**: Mantém a segurança e privacidade dos scripts e dados do usuário, especialmente ao se conectar a uma API externa.
@@ -31,7 +33,7 @@ O ScriptSavvy foi criado para resolver esse problema comum, oferecendo as seguin
 
 ### Contribuição
 
-Este projeto está em constante desenvolvimento e sua contribuição é bem-vinda! Se você tiver sugestões de melhorias, novas funcionalidades ou encontrar algum problema, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Este projeto está em constante desenvolvimento e sua contribuição é bem-vinda! Se você tiver sugestões de melhorias, novas funcionalidades ou encontrar algum problema, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
 
 ### Licença
 
@@ -40,3 +42,5 @@ O ScriptSavvy é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](.
 ---
 
 Com o ScriptSavvy, a correção automática de scripts nunca foi tão fácil e eficiente. Experimente hoje mesmo e simplifique seu fluxo de trabalho de desenvolvimento de software!
+
+---
