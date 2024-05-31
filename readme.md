@@ -1,45 +1,26 @@
 
-**Script Inteligente: Sistema de Correção Automática de Scripts**
+Reconhecimentos e Direitos Autorais
 
----
+@autor: Giordano Bruno e Vitor Nunes
 
-### Visão Geral
+@contato: 
 
-O **Script Inteligente** é uma ferramenta projetada para facilitar a vida dos desenvolvedores de software, especialmente aqueles que lidam frequentemente com a criação de scripts para automatizar tarefas. Desenvolvido com o objetivo de eliminar erros comuns em scripts e aumentar a eficiência no desenvolvimento, o Script Inteligente oferece uma solução abrangente para identificar, corrigir e otimizar scripts de forma automática e intuitiva.
+@data última versão: 30 / 05 / 2024
 
-### Problema
+@versão: 1.0
 
-Muitos desenvolvedores enfrentam o desafio de cometer erros em seus scripts, que só são identificados após a execução, resultando em frustração, desperdício de tempo e recursos.
+@outros repositórios: 
 
-### Solução
+@Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
-O Script Inteligente foi criado para resolver esse problema comum, oferecendo as seguintes funcionalidades:
+@Copyright/License
 
-- **Identificação de Erros**: Analisa o código do script em busca de possíveis erros de semântica ou lógica.
-- **Feedback Imediato**: Fornece feedback imediato sobre a entrada e saída esperada do script, facilitando a detecção de discrepâncias.
-- **Integração com API ou Inteligência Artificial**: Conecta-se a uma API ou utiliza inteligência artificial para realizar correções automáticas sempre que possível, aumentando a eficiência no processo de desenvolvimento.
-- **Interface Intuitiva**: Apresenta uma interface de usuário intuitiva e fácil de usar, garantindo uma experiência fluida para o usuário.
-- **Rapidez e Eficiência**: Garante rapidez e eficiência na correção dos scripts, reduzindo o tempo de espera por resultados.
-- **Segurança e Privacidade**: Mantém a segurança e privacidade dos scripts e dados do usuário, especialmente ao se conectar a uma API externa.
+Este material é resultado de um trabalho acadêmico para a disciplina PROJETO E DESENVOLVIMENTO DE SOFTWARE, sobre a orientação do professor Dr. THALES LEVI AZEVEDO VALENTE, semestre letivo 2024.1, curso Engenharia da Computação, na Universidade Federal do Maranhão (UFMA). Todo o material sob esta licença é software livre: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. Não há papelada, nem royalties, nem restrições de "copyleft" do tipo GNU. Ele é licenciado sob os termos da licença MIT reproduzida abaixo e, portanto, é compatível com GPL e também se qualifica como software de código aberto. É de domínio público. Os detalhes legais estão abaixo. O espírito desta licença é que você é livre para usar este material para qualquer finalidade, sem nenhum custo. O único requisito é que, se você usá-los, nos dê crédito.
 
-### Como Usar
+Copyright © 2024 Educational Material
 
-1. Faça o login na plataforma Script Inteligente.
-2. Insira o código do script que deseja corrigir.
-3. Aguarde a análise e correção automáticas.
-4. Revise o feedback e as correções propostas.
-5. Salve e implemente as correções conforme necessário.
+Este material está licenciado sob a Licença MIT. É permitido o uso, cópia, modificação, e distribuição deste material para qualquer fim, desde que acompanhado deste aviso de direitos autorais.
 
-### Contribuição
+O MATERIAL É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM HIPÓTESE ALGUMA OS AUTORES OU DETENTORES DE DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTE DE, OU EM CONEXÃO COM O MATERIAL OU O USO OU OUTRAS NEGOCIAÇÕES NO MATERIAL.
 
-Este projeto está em constante desenvolvimento e sua contribuição é bem-vinda! Se você tiver sugestões de melhorias, novas funcionalidades ou encontrar algum problema, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
-
-### Licença
-
-O Script Inteligente é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
-
----
-
-Com o Script Inteligente, a correção automática de scripts nunca foi tão fácil e eficiente. Experimente hoje mesmo e simplifique seu fluxo de trabalho de desenvolvimento de software!
-
----
+Para mais informações sobre a Licença MIT: https://opensource.org/licenses/MIT.
